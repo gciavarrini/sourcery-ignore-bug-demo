@@ -1,2 +1,8 @@
 ignore:
   - api/v1alpha1/*.gen.go
+  - api/v1alpha1/*.gen.cfg
+  - internal/api/server/*.gen.go
+  - internal/api/server/*.gen.cfg
+  - pkg/client/*.gen.go
+  - pkg/client/*.gen.cfg
+  - vendor/
